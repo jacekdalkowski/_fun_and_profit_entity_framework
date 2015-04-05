@@ -1,0 +1,10 @@
+C:\Dev\EFTests\ManageDbTestHarness\obj\Debug\ManageDbTestHarness.fsproj.ManageDbTestHarness.exe.config
+C:\Dev\EFTests\ManageDbTestHarness\bin\Debug\ManageDbTestHarness.exe.config
+C:\Dev\EFTests\ManageDbTestHarness\bin\Debug\ManageDbTestHarness.XML
+C:\Dev\EFTests\ManageDbTestHarness\bin\Debug\ManageDbTestHarness.exe
+C:\Dev\EFTests\ManageDbTestHarness\bin\Debug\ManageDbTestHarness.pdb
+C:\Dev\EFTests\ManageDbTestHarness\bin\Debug\FSharp.Core.dll
+C:\Dev\EFTests\ManageDbTestHarness\bin\Debug\FSharp.Data.TypeProviders.dll
+C:\Dev\EFTests\ManageDbTestHarness\bin\Debug\FSharp.Core.xml
+C:\Dev\EFTests\ManageDbTestHarness\obj\Debug\ManageDbTestHarness.exe
+C:\Dev\EFTests\ManageDbTestHarness\obj\Debug\ManageDbTestHarness.pdb

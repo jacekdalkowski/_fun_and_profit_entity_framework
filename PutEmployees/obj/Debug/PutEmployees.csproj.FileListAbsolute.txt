@@ -1,0 +1,10 @@
+C:\Dev\EFTests\PutEmployees\bin\Debug\PutEmployees.dll.config
+C:\Dev\EFTests\PutEmployees\bin\Debug\PutEmployees.dll
+C:\Dev\EFTests\PutEmployees\bin\Debug\PutEmployees.pdb
+C:\Dev\EFTests\PutEmployees\bin\Debug\EntityFramework.dll
+C:\Dev\EFTests\PutEmployees\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\EFTests\PutEmployees\bin\Debug\EntityFramework.xml
+C:\Dev\EFTests\PutEmployees\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\EFTests\PutEmployees\obj\Debug\PutEmployees.csprojResolveAssemblyReference.cache
+C:\Dev\EFTests\PutEmployees\obj\Debug\PutEmployees.dll
+C:\Dev\EFTests\PutEmployees\obj\Debug\PutEmployees.pdb

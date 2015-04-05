@@ -1,6 +1,0 @@
-C:\Dev\EFTests\EFTests\bin\Debug\EFTests.exe.config
-C:\Dev\EFTests\EFTests\bin\Debug\EFTests.exe
-C:\Dev\EFTests\EFTests\bin\Debug\EFTests.pdb
-C:\Dev\EFTests\EFTests\obj\Debug\EFTests.csprojResolveAssemblyReference.cache
-C:\Dev\EFTests\EFTests\obj\Debug\EFTests.exe
-C:\Dev\EFTests\EFTests\obj\Debug\EFTests.pdb
